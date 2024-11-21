@@ -1,0 +1,9 @@
+## Descrição do Código / Code Description
+
+### 📄 Português:
+Este código em Assembly x64 calcula a soma dos números inteiros de 1 a 100 utilizando um loop. O resultado é exibido no console por meio da função `printf`, e o programa é finalizado com a chamada de sistema `exit`.
+
+---
+
+### 📄 English:
+This Assembly x64 code calculates the sum of integers from 1 to 100 using a loop. The result is displayed on the console using the `printf` function, and the program ends with the `exit` system call.
